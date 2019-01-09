@@ -60,7 +60,7 @@ Every alternate class marked (P) will include a 5 minute quiz at the beginning o
 |4a|black-box explainability|[Local Rule-Based Explanations of Black Box Decision Systems](https://arxiv.org/abs/1805.10820)|2018|arxiv|
 |4b|neural network oriented|[Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/pdf/1710.04806)|2018|AAAI|
 |5a|neural network oriented|[Layer-wise relevance propagation for neural networks with local renormalization layers](https://arxiv.org/pdf/1604.00825.pdf)|2016|ICANN|
-|5b|neural network oriented|[Decomposition of uncertainty in Bayesian deep learning for efficient and risk-sensitive learning](http://proceedings.mlr.press/v80/depeweg18a/depeweg18a.pdf)|2018|ICML|
+|5b|neural network oriented|[Streaming Weak Submodularity: Interpreting Neural Networks on the Fly](https://github.com/eelenberg/streak)|2017|NIPS|
 |6a|neural network oriented|[Rationalizing Neural Predictions](https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf)|2016|EMNLP|
 |6b|recourse/causal|[Actionable Recourse in Linear Classification](https://arxiv.org/pdf/1809.06514.pdf)|2018|arxiv|
 |7a|philosophy|[The mythos of model interpretability](https://arxiv.org/pdf/1606.03490)|2016|ICML|
