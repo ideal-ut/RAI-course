@@ -80,18 +80,18 @@ Every alternate class marked (P) will include a 5 minute quiz at the beginning o
 |12a|causal|[Causal Reasoning for Algorithmic Fairness](https://arxiv.org/pdf/1805.05859.pdf)|2018|arxiv|
 |12b|temporal|[Delayed Impact of Fair Machine Learning](https://arxiv.org/pdf/1803.04383.pdf)|2018|ICML|
 |13a|ranking|[Fairness of Exposure in Rankings](https://arxiv.org/pdf/1802.07281.pdf)|2018|KDD|
-|13b|ranking|["Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems"](http://fernando.diaz.nyc/CIKM2018-marketplace-mehrotra.pdf)|2018|ACM|
+|13b|ranking|[Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems](http://fernando.diaz.nyc/CIKM2018-marketplace-mehrotra.pdf)|2018|ACM|
 
 ### Assurance
 | Presentation Order | Type | Reading | Year | Venue |
 | -- | ---- | ------- | ---- | ----- |
-|14a|data integrity|Datasheets for Datasets|2018|PMLR|
-|14b|data integrity|Mitigating poisoning attacks on machine learning models: A data provenance based approach|2017|ACM|
-|15a|overview|Making Machine Learning Robust Against Adversarial Inputs. |2018|ACM|
-|15b|causality|Reliable Decision Support Using Counterfactual Models|2017|NIPS|
-|16a|tool|ART sec 1-5 Nicolae, Maria-Irina, et al. 2018. “Adversarial Robustness Toolbox v0.3.0.”|2018||
-|16b|tool|ART sec 6-10|2018||
-|17a|DL specific|Towards Deep Learning Models Resistant to Adversarial Attacks|2018|ICLR|
-|17b|DL specific|Decomposition of uncertainty in Bayesian deep learning for efficient and risk-sensitive learning|2018|ICML|
-|18a|outliers|Generative Adversarial Active Learning for Unsupervised Outlier Detection.|2018|arxiv|
-|18b|outliers|Theoretical Foundations and Algorithms for Outlier Ensembles.|2015|SIGKDD|
+|14a|data integrity|[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)|2018|PMLR|
+|14b|data integrity|[Mitigating poisoning attacks on machine learning models: A data provenance based approach](https://dl.acm.org/citation.cfm?id=3140450)|2017|ACM|
+|15a|overview|[Making Machine Learning Robust Against Adversarial Inputs](https://cacm.acm.org/magazines/2018/7/229030-making-machine-learning-robust-against-adversarial-inputs.)|2018|ACM|
+|15b|causality|[Reliable Decision Support Using Counterfactual Models](https://arxiv.org/pdf/1703.10651.pdf)|2017|NIPS|
+|16a|tool|[ART sec 1-5 Nicolae, Maria-Irina, et al. 2018. “Adversarial Robustness Toolbox v0.3.0.”](https://arxiv.org/pdf/1807.01069.pdf)|2018||
+|16b|tool|[ART sec 6-10](https://arxiv.org/pdf/1807.01069.pdf)|2018||
+|17a|DL specific|[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)|2018|ICLR|
+|17b|DL specific|[Decomposition of uncertainty in Bayesian deep learning for efficient and risk-sensitive learning](http://proceedings.mlr.press/v80/depeweg18a/depeweg18a.pdf)|2018|ICML|
+|18a|outliers|[Generative Adversarial Active Learning for Unsupervised Outlier Detection](http://arxiv.org/abs/1809.10816)|2018|arxiv|
+|18b|outliers|[Theoretical Foundations and Algorithms for Outlier Ensembles](https://www.kdd.org/exploration_files/Article4.pdf)|2015|SIGKDD|
