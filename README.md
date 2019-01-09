@@ -87,7 +87,7 @@ Every alternate class marked (P) will include a 5 minute quiz at the beginning o
 | -- | ---- | ------- | ---- | ----- |
 |14a|data integrity|[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)|2018|PMLR|
 |14b|data integrity|[Mitigating poisoning attacks on machine learning models: A data provenance based approach](https://dl.acm.org/citation.cfm?id=3140450)|2017|ACM|
-|15a|overview|[Making Machine Learning Robust Against Adversarial Inputs](https://cacm.acm.org/magazines/2018/7/229030-making-machine-learning-robust-against-adversarial-inputs.)|2018|ACM|
+|15a|overview|[Making Machine Learning Robust Against Adversarial Inputs](https://cacm.acm.org/magazines/2018/7/229030-making-machine-learning-robust-against-adversarial-inputs/fulltext)|2018|ACM|
 |15b|causality|[Reliable Decision Support Using Counterfactual Models](https://arxiv.org/pdf/1703.10651.pdf)|2017|NIPS|
 |16a|tool|[ART sec 1-5 Nicolae, Maria-Irina, et al. 2018. “Adversarial Robustness Toolbox v0.3.0.”](https://arxiv.org/pdf/1807.01069.pdf)|2018||
 |16b|tool|[ART sec 6-10](https://arxiv.org/pdf/1807.01069.pdf)|2018||
