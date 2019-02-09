@@ -39,7 +39,7 @@ Tuesday/Thursday: 12:30 - 2 ECJ 1.312
 - Fairness (P)		6 classes
 - Assurance (P)		5 classes
 - Guest Speaker	4 classes
-- Minor project		1 class	 (early March)
+- Minor project		1 class	 (mid March)
 - Major project		3 classes (late April)
 
 Topics marked by (P) are student-led presentations. Each such class will cover 2 papers, spending 35 minutes per paper as follows: lead group 20 mins, critiquing group, 5 minutes; discussion 10 mins.
@@ -81,17 +81,22 @@ Every alternate class marked (P) will include a 5 minute quiz at the beginning o
 |12b|temporal|[Delayed Impact of Fair Machine Learning](https://arxiv.org/pdf/1803.04383.pdf)|2018|ICML|
 |13a|ranking|[Fairness of Exposure in Rankings](https://arxiv.org/pdf/1802.07281.pdf)|2018|KDD|
 |13b|ranking|[Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems](http://fernando.diaz.nyc/CIKM2018-marketplace-mehrotra.pdf)|2018|ACM|
+|14a||[Controlling Polarization in Personalization: An Algorithmic Framework](https://dl.acm.org/citation.cfm?doid=3287560.3287601)|2019|FATML|
 
 ### Assurance
 | Presentation Order | Type | Reading | Year | Venue |
 | -- | ---- | ------- | ---- | ----- |
-|14a|data integrity|[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)|2018|PMLR|
-|14b|data integrity|[Mitigating poisoning attacks on machine learning models: A data provenance based approach](https://dl.acm.org/citation.cfm?id=3140450)|2017|ACM|
-|15a|overview|[Making Machine Learning Robust Against Adversarial Inputs](https://cacm.acm.org/magazines/2018/7/229030-making-machine-learning-robust-against-adversarial-inputs/fulltext)|2018|ACM|
-|15b|causality|[Reliable Decision Support Using Counterfactual Models](https://arxiv.org/pdf/1703.10651.pdf)|2017|NIPS|
-|16a|tool|[ART sec 1-5 Nicolae, Maria-Irina, et al. 2018. “Adversarial Robustness Toolbox v0.3.0.”](https://arxiv.org/pdf/1807.01069.pdf)|2018||
-|16b|tool|[ART sec 6-10](https://arxiv.org/pdf/1807.01069.pdf)|2018||
-|17a|DL specific|[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)|2018|ICLR|
-|17b|DL specific|[Decomposition of uncertainty in Bayesian deep learning for efficient and risk-sensitive learning](http://proceedings.mlr.press/v80/depeweg18a/depeweg18a.pdf)|2018|ICML|
-|18a|outliers|[Generative Adversarial Active Learning for Unsupervised Outlier Detection](http://arxiv.org/abs/1809.10816)|2018|arxiv|
-|18b|outliers|[Theoretical Foundations and Algorithms for Outlier Ensembles](https://www.kdd.org/exploration_files/Article4.pdf)|2015|SIGKDD|
+|15a|data integrity|[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)|2018|PMLR|
+|15b|data integrity|[Mitigating poisoning attacks on machine learning models: A data provenance based approach](https://dl.acm.org/citation.cfm?id=3140450)|2017|ACM|
+|16a|overview|[Making Machine Learning Robust Against Adversarial Inputs](https://cacm.acm.org/magazines/2018/7/229030-making-machine-learning-robust-against-adversarial-inputs/fulltext)|2018|ACM|
+|16b|causality|[Reliable Decision Support Using Counterfactual Models](https://arxiv.org/pdf/1703.10651.pdf)|2017|NIPS|
+|17a|tool|[ART sec 1-5 Nicolae, Maria-Irina, et al. 2018. “Adversarial Robustness Toolbox v0.3.0.”](https://arxiv.org/pdf/1807.01069.pdf)|2018||
+|17b|tool|[ART sec 6-10](https://arxiv.org/pdf/1807.01069.pdf)|2018||
+|18a|DL specific|[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)|2018|ICLR|
+|18b|DL specific|[Decomposition of uncertainty in Bayesian deep learning for efficient and risk-sensitive learning](http://proceedings.mlr.press/v80/depeweg18a/depeweg18a.pdf)|2018|ICML|
+|19a|outliers|[Generative Adversarial Active Learning for Unsupervised Outlier Detection](http://arxiv.org/abs/1809.10816)|2018|arxiv|
+|19b|outliers|[Theoretical Foundations and Algorithms for Outlier Ensembles](https://www.kdd.org/exploration_files/Article4.pdf)|2015|SIGKDD|
+|20a|bias mitigation|[Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_220.pdf)|2019|AAAI|
+|20b|bias mitigation|[https://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory.pdf](Why is my classifier Discriminatory?)|2018|NIPS|
+|21a|security/privacy|[Model Reconstruction from Model Explanations](https://arxiv.org/pdf/1807.05185.pdf)|2019|FATML|
+|22b|software process/evaluation|[Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf)|2019|FATML|
