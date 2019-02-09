@@ -97,6 +97,6 @@ Every alternate class marked (P) will include a 5 minute quiz at the beginning o
 |19a|outliers|[Generative Adversarial Active Learning for Unsupervised Outlier Detection](http://arxiv.org/abs/1809.10816)|2018|arxiv|
 |19b|outliers|[Theoretical Foundations and Algorithms for Outlier Ensembles](https://www.kdd.org/exploration_files/Article4.pdf)|2015|SIGKDD|
 |20a|bias mitigation|[Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_220.pdf)|2019|AAAI|
-|20b|bias mitigation|[https://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory.pdf](Why is my classifier Discriminatory?)|2018|NIPS|
+|20b|bias mitigation|[Why is my classifier Discriminatory?](https://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory.pdf)|2018|NIPS|
 |21a|security/privacy|[Model Reconstruction from Model Explanations](https://arxiv.org/pdf/1807.05185.pdf)|2019|FATML|
 |22b|software process/evaluation|[Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf)|2019|FATML|
