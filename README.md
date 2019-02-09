@@ -99,4 +99,4 @@ Every alternate class marked (P) will include a 5 minute quiz at the beginning o
 |20a|bias mitigation|[Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_220.pdf)|2019|AAAI|
 |20b|bias mitigation|[Why is my classifier Discriminatory?](https://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory.pdf)|2018|NIPS|
 |21a|security/privacy|[Model Reconstruction from Model Explanations](https://arxiv.org/pdf/1807.05185.pdf)|2019|FATML|
-|22b|software process/evaluation|[Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf)|2019|FATML|
+|21b|software process/evaluation|[Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf)|2019|FATML|
