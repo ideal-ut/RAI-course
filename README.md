@@ -75,6 +75,7 @@ Every alternate class marked (P) will include a 5 minute quiz at the beginning o
 |9b|pre-processing|[Optimized Pre-Processing for Discrimination Prevention](http://krvarshney.github.io/pubs/CalmonWVRV_nips2017.pdf)|2017|NIPS|
 |10a|in-processing|[Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf)|2018|AAAI|
 |10b|in-processing|[Classification with Fairness Constraints: A Meta-Algorithm with Provable Guarantees](https://arxiv.org/pdf/1806.06055.pdf)|2019|ACM|
+|10b|history|[50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104.pdf)|2019|FATML|
 |11a|post-processing|[Equality of Opportunity in Supervised Learning](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)|2016|NIPS|
 |11b|post-processing|[On Fairness and Calibration](https://papers.nips.cc/paper/7151-on-fairness-and-calibration.pdf)|2017|NIPS|
 |12a|causal|[Causal Reasoning for Algorithmic Fairness](https://arxiv.org/pdf/1805.05859.pdf)|2018|arxiv|
